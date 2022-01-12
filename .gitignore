@@ -1,7 +1,7 @@
 node_modules/**/*
 yarn-error.log
 .expo/*
-npm-debug.*
+
 *.jks
 *.p8
 *.p12
